@@ -1,0 +1,2 @@
+# JobBot
+Job Application Bot
